@@ -1,7 +1,277 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fd86c93c-ce7a-4d31-b7f7-d9c3ed378b04" name="Default Changelist" comment="" />
+    <list default="true" id="fd86c93c-ce7a-4d31-b7f7-d9c3ed378b04" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com.tian/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/font/iconfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/font/iconfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/font/iconfont.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/firstProject_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/webProject_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/admin.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/examples/admin.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/all.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/examples/all.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/button.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/examples/button.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/carousel.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/examples/carousel.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/code.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/examples/code.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/colorpicker.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/examples/colorpicker.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/element.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/examples/element.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/extend.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/examples/extend.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/extends/mod1.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/examples/extends/mod1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/extends/mod2.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/examples/extends/mod2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/extends/temp.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/examples/extends/temp.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/flow.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/examples/flow.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/form.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/examples/form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/js/child/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/examples/js/child/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/examples/js/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/json/table/demo1.json" beforeDir="false" afterPath="$PROJECT_DIR$/web/examples/json/table/demo1.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/json/table/demo2.json" beforeDir="false" afterPath="$PROJECT_DIR$/web/examples/json/table/demo2.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/json/table/demo3.json" beforeDir="false" afterPath="$PROJECT_DIR$/web/examples/json/table/demo3.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/json/upload/demoLayEdit.json" beforeDir="false" afterPath="$PROJECT_DIR$/web/examples/json/upload/demoLayEdit.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/laydate.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/examples/laydate.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/layedit.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/examples/layedit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/layer.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/examples/layer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/examples/layout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/laypage.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/examples/laypage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/rate.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/examples/rate.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/responsive.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/examples/responsive.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/slider.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/examples/slider.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/table.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/examples/table.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/transfer.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/examples/transfer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/examples/tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/upload.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/examples/upload.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/util.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/examples/util.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/xingzuo.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/examples/xingzuo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/css/layui.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/css/layui.mobile.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/css/modules/code.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/css/modules/laydate/default/font.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/css/modules/laydate/default/laydate.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/css/modules/layer/default/icon-ext.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/css/modules/layer/default/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/css/modules/layer/default/layer.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/css/modules/layer/default/loading-0.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/css/modules/layer/default/loading-1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/css/modules/layer/default/loading-2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/font/iconfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/font/iconfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/font/iconfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/font/iconfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/font/iconfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/images/face/0.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/images/face/1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/images/face/10.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/images/face/11.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/images/face/12.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/images/face/13.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/images/face/14.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/images/face/15.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/images/face/16.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/images/face/17.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/images/face/18.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/images/face/19.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/images/face/2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/images/face/20.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/images/face/21.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/images/face/22.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/images/face/23.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/images/face/24.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/images/face/25.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/images/face/26.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/images/face/27.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/images/face/28.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/images/face/29.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/images/face/3.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/images/face/30.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/images/face/31.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/images/face/32.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/images/face/33.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/images/face/34.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/images/face/35.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/images/face/36.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/images/face/37.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/images/face/38.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/images/face/39.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/images/face/4.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/images/face/40.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/images/face/41.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/images/face/42.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/images/face/43.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/images/face/44.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/images/face/45.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/images/face/46.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/images/face/47.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/images/face/48.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/images/face/49.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/images/face/5.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/images/face/50.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/images/face/51.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/images/face/52.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/images/face/53.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/images/face/54.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/images/face/55.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/images/face/56.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/images/face/57.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/images/face/58.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/images/face/59.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/images/face/6.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/images/face/60.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/images/face/61.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/images/face/62.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/images/face/63.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/images/face/64.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/images/face/65.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/images/face/66.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/images/face/67.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/images/face/68.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/images/face/69.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/images/face/7.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/images/face/70.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/images/face/71.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/images/face/8.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/images/face/9.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/lay/all-mobile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/lay/all.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/lay/modules/carousel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/lay/modules/code.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/lay/modules/colorpicker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/lay/modules/element.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/lay/modules/flow.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/lay/modules/form.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/lay/modules/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/lay/modules/laydate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/lay/modules/layedit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/lay/modules/layer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/lay/modules/laypage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/lay/modules/laytpl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/lay/modules/mobile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/lay/modules/mobile/layer-mobile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/lay/modules/mobile/layim-mobile-open.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/lay/modules/mobile/zepto.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/lay/modules/rate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/lay/modules/slider.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/lay/modules/table.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/lay/modules/transfer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/lay/modules/tree.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/lay/modules/upload.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/lay/modules/util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/layui.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/layui.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/css/layui.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/layui.mobile.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/css/layui.mobile.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/modules/code.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/css/modules/code.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/modules/laydate/default/font.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/css/modules/laydate/default/font.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/modules/laydate/default/laydate.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/css/modules/laydate/default/laydate.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/modules/layer/default/icon-ext.png" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/css/modules/layer/default/icon-ext.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/modules/layer/default/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/css/modules/layer/default/icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/modules/layer/default/layer.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/css/modules/layer/default/layer.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/modules/layer/default/loading-0.gif" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/css/modules/layer/default/loading-0.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/modules/layer/default/loading-1.gif" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/css/modules/layer/default/loading-1.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/modules/layer/default/loading-2.gif" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/css/modules/layer/default/loading-2.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/iconfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/iconfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/font/iconfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/iconfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/font/iconfont.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/iconfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/iconfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/face/0.gif" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/images/face/0.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/face/1.gif" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/images/face/1.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/face/10.gif" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/images/face/10.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/face/11.gif" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/images/face/11.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/face/12.gif" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/images/face/12.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/face/13.gif" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/images/face/13.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/face/14.gif" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/images/face/14.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/face/15.gif" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/images/face/15.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/face/16.gif" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/images/face/16.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/face/17.gif" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/images/face/17.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/face/18.gif" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/images/face/18.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/face/19.gif" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/images/face/19.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/face/2.gif" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/images/face/2.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/face/20.gif" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/images/face/20.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/face/21.gif" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/images/face/21.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/face/22.gif" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/images/face/22.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/face/23.gif" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/images/face/23.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/face/24.gif" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/images/face/24.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/face/25.gif" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/images/face/25.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/face/26.gif" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/images/face/26.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/face/27.gif" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/images/face/27.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/face/28.gif" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/images/face/28.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/face/29.gif" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/images/face/29.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/face/3.gif" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/images/face/3.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/face/30.gif" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/images/face/30.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/face/31.gif" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/images/face/31.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/face/32.gif" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/images/face/32.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/face/33.gif" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/images/face/33.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/face/34.gif" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/images/face/34.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/face/35.gif" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/images/face/35.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/face/36.gif" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/images/face/36.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/face/37.gif" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/images/face/37.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/face/38.gif" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/images/face/38.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/face/39.gif" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/images/face/39.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/face/4.gif" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/images/face/4.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/face/40.gif" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/images/face/40.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/face/41.gif" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/images/face/41.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/face/42.gif" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/images/face/42.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/face/43.gif" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/images/face/43.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/face/44.gif" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/images/face/44.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/face/45.gif" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/images/face/45.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/face/46.gif" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/images/face/46.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/face/47.gif" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/images/face/47.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/face/48.gif" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/images/face/48.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/face/49.gif" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/images/face/49.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/face/5.gif" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/images/face/5.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/face/50.gif" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/images/face/50.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/face/51.gif" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/images/face/51.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/face/52.gif" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/images/face/52.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/face/53.gif" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/images/face/53.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/face/54.gif" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/images/face/54.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/face/55.gif" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/images/face/55.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/face/56.gif" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/images/face/56.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/face/57.gif" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/images/face/57.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/face/58.gif" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/images/face/58.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/face/59.gif" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/images/face/59.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/face/6.gif" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/images/face/6.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/face/60.gif" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/images/face/60.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/face/61.gif" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/images/face/61.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/face/62.gif" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/images/face/62.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/face/63.gif" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/images/face/63.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/face/64.gif" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/images/face/64.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/face/65.gif" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/images/face/65.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/face/66.gif" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/images/face/66.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/face/67.gif" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/images/face/67.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/face/68.gif" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/images/face/68.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/face/69.gif" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/images/face/69.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/face/7.gif" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/images/face/7.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/face/70.gif" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/images/face/70.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/face/71.gif" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/images/face/71.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/face/8.gif" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/images/face/8.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/face/9.gif" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/images/face/9.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lay/all-mobile.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/lay/all-mobile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lay/all.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/lay/all.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lay/modules/carousel.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/lay/modules/carousel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lay/modules/code.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/lay/modules/code.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lay/modules/colorpicker.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/lay/modules/colorpicker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lay/modules/element.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/lay/modules/element.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lay/modules/flow.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/lay/modules/flow.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lay/modules/form.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/lay/modules/form.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lay/modules/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/lay/modules/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lay/modules/laydate.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/lay/modules/laydate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lay/modules/layedit.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/lay/modules/layedit.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lay/modules/layer.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/lay/modules/layer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lay/modules/laypage.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/lay/modules/laypage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lay/modules/laytpl.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/lay/modules/laytpl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lay/modules/mobile.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/lay/modules/mobile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lay/modules/mobile/layer-mobile.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/lay/modules/mobile/layer-mobile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lay/modules/mobile/layim-mobile-open.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/lay/modules/mobile/layim-mobile-open.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lay/modules/mobile/zepto.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/lay/modules/mobile/zepto.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lay/modules/rate.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/lay/modules/rate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lay/modules/slider.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/lay/modules/slider.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lay/modules/table.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/lay/modules/table.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lay/modules/transfer.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/lay/modules/transfer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lay/modules/tree.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/lay/modules/tree.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lay/modules/upload.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/lay/modules/upload.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lay/modules/util.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/lay/modules/util.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/layui.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/layui.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/webProject.iml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,8 +282,12 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -25,9 +299,10 @@
   <component name="ProjectId" id="1dyWJ7DdC3ouaK1v6Y1bxcvFVEX" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -37,13 +312,18 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ideaCode\WebProject\web" />
+      <recent name="D:\ideaCode\WebProject\web\static" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ideaCode\WebProject\src" />
       <recent name="D:\ideaCode\firstProject" />
     </key>
   </component>
@@ -59,61 +339,27 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+  <component name="RunManager" selected="Tomcat Server.tomcat-8.0.9">
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tian.main" />
       <module name="webProject" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tian.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
-      <module name="webProject" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Tomcat 8.0.9" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.9" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
-      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8001/firstProject/web/index.html" />
+    <configuration name="tomcat-8.0.9" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="tomcat-8.0.9" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8001/WebProject/web/index.html" />
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
         <file path="$PROJECT_DIR$">
           <settings>
-            <option name="CONTEXT_PATH" value="/firstProject" />
+            <option name="CONTEXT_PATH" value="/WebProject" />
           </settings>
         </file>
       </deployment>
@@ -179,6 +425,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Tomcat Server.tomcat-8.0.9" />
+      <item itemvalue="Application.main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -192,10 +447,22 @@
       <updated>1593397740199</updated>
       <workItem from="1593397750518" duration="1563000" />
       <workItem from="1593404629942" duration="1568000" />
+      <workItem from="1593406928742" duration="1221000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
