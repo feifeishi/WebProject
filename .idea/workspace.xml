@@ -6,8 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd86c93c-ce7a-4d31-b7f7-d9c3ed378b04" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/web/niu/table.html" afterDir="false" />
+    <list default="true" id="fd86c93c-ce7a-4d31-b7f7-d9c3ed378b04" name="Default Changelist" comment="2020-06-30">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -313,7 +312,7 @@
       <workItem from="1593404629942" duration="1568000" />
       <workItem from="1593406928742" duration="1221000" />
       <workItem from="1593421675267" duration="6541000" />
-      <workItem from="1593479877180" duration="3171000" />
+      <workItem from="1593479877180" duration="3799000" />
     </task>
     <task id="LOCAL-00001" summary="2020-06-30">
       <created>1593484228416</created>
