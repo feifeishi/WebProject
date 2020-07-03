@@ -11,13 +11,18 @@
 
 </head>
 <body>
-<table id="test2" lay-filter="test2"></table>
+<script src="../src/layui.js" src="//layui.hcwl520.com.cn/layui-v2.4.5/layui.js" charset="utf-8"></script>
+<script>
+    layui.use('table', function() {
+        var table = layui.table;
+    });
+</script>
 <div style="display: none1;">
     <table class="layui-table1" lay-data="{width:800, height: 300, url:'json/table/demo2.json', page: true, limit: 6}">
         <thead>
         <tr>
             <th lay-data="{checkbox:true, fixed:'left'}" rowspan="2"></th>
-            <th lay-data="{field:'username', width:80}" rowspan="2">联系人</th>
+            <th lay-data="{field:'username', width:80}" rowspan="2">联系人1</th>
             <th lay-data="{field:'amount', width:120}" rowspan="2">金额</th>
             <th lay-data="{align:'center'}" colspan="3">地址</th>
             <th lay-data="{fixed: 'right', width: 155, align: 'center', toolbar: '#barDemo'}" rowspan="2">操作</th>
