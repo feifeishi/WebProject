@@ -8,7 +8,7 @@
   <component name="ChangeListManager">
     <list default="true" id="fd86c93c-ce7a-4d31-b7f7-d9c3ed378b04" name="Default Changelist" comment="2020-06-30">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/niu/layuitest.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/niu/layuitest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/examples/table.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/examples/table.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,6 +20,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JavaScript File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -40,7 +41,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/web/fristporject" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/web/niu" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -53,17 +54,18 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\ideaCode\WebProject\web\fristporject" />
-      <recent name="D:\ideaCode\WebProject\src" />
-      <recent name="D:\ideaCode\firstProject" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\ideaCode\WebProject\web" />
       <recent name="D:\ideaCode\WebProject\web\static" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ideaCode\WebProject\web\niu" />
+      <recent name="D:\ideaCode\WebProject\web\fristporject" />
+      <recent name="D:\ideaCode\WebProject\src" />
+      <recent name="D:\ideaCode\firstProject" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -283,11 +285,11 @@
     </configuration>
     <list>
       <item itemvalue="Application.main" />
+      <item itemvalue="JavaScript Debug.table.html" />
+      <item itemvalue="JavaScript Debug.layuitest.html" />
       <item itemvalue="Tomcat Server.tomcat-8.0.9" />
       <item itemvalue="Tomcat Server.table.html" />
       <item itemvalue="Tomcat Server.layuitest.html" />
-      <item itemvalue="JavaScript Debug.table.html" />
-      <item itemvalue="JavaScript Debug.layuitest.html" />
     </list>
     <recent_temporary>
       <list>
@@ -313,7 +315,11 @@
       <workItem from="1593404629942" duration="1568000" />
       <workItem from="1593406928742" duration="1221000" />
       <workItem from="1593421675267" duration="6541000" />
-      <workItem from="1593479877180" duration="5231000" />
+      <workItem from="1593479877180" duration="5587000" />
+      <workItem from="1593487877974" duration="8508000" />
+      <workItem from="1593565925862" duration="9522000" />
+      <workItem from="1593652171843" duration="10312000" />
+      <workItem from="1593739099595" duration="11736000" />
     </task>
     <task id="LOCAL-00001" summary="2020-06-30">
       <created>1593484228416</created>
@@ -329,7 +335,35 @@
       <option name="project" value="LOCAL" />
       <updated>1593486011550</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="2020-06-30">
+      <created>1593487442257</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1593487442257</updated>
+    </task>
+    <task id="LOCAL-00004" summary="2020-06-30">
+      <created>1593505018544</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1593505018544</updated>
+    </task>
+    <task id="LOCAL-00005" summary="2020-07-02">
+      <created>1593675275115</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1593675275115</updated>
+    </task>
+    <task id="LOCAL-00006" summary="2020-06-30">
+      <created>1593770265899</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1593770265899</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -349,6 +383,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="2020-07-02" />
     <MESSAGE value="2020-06-30" />
     <option name="LAST_COMMIT_MESSAGE" value="2020-06-30" />
   </component>
